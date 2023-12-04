@@ -1,0 +1,40 @@
+.footer-navlink{
+    font-size: 2rem;
+    display: block;
+    margin-bottom: 1rem;
+}
+.footer-content{
+    row-gap: 5rem;
+}
+.footer-title{
+    margin-bottom: 1.6rem;
+}
+.footer-links li{
+    margin-bottom: 1rem;
+}
+.footer-links li a{
+    transition: var(--transition);
+}
+.footer-links li a:hover{
+    color: var(--robin-blue-color);
+}
+
+@media screen and (min-width: 768px){
+    .footer-content{
+        grid-template-columns: repeat(2, 1fr);
+        column-gap: 4rem;
+    }
+}
+
+@media screen and (min-width: 992px){
+    .footer-content{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .footer-content{
+        grid-template-columns: 2fr 1fr 1fr 1fr 1fr;
+        text-align: left;
+    }
+}
