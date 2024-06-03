@@ -3,6 +3,8 @@
 ## Overview
 Developed a dynamic Real Estate website using **React.js** and **CSS**, offering an immersive user experience. Utilized React components and libraries like `react-elastic-carousel` and `react-slick` for interactive and responsive property listings. Implemented seamless navigation and appealing UI/UX using `styled-components`. The website showcases a variety of properties, enhancing user engagement and satisfaction.
 
+https://github.com/Kanch-prog/real-estate/assets/121807277/abf2aa1f-34f7-418e-b93b-5140a3bb1f28
+
 ## 🚀 Features
 - **Interactive Property Listings:** 
   - Utilized `react-elastic-carousel` and `react-slick` for interactive and responsive carousels.
